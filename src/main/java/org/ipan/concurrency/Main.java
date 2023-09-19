@@ -32,7 +32,7 @@ public class Main {
 //        ex.run();
 
         ScheduledExecutorService scheduledExecutorService = Executors.newScheduledThreadPool(5);
-        scheduledExecutorService.schedule()
+//        scheduledExecutorService.schedule();
     }
 
     private static void visibility() {
